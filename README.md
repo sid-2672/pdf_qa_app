@@ -35,6 +35,8 @@ Credits:
 This project is inspired by the following article:
 [LLM RAG: Creating an AI-Powered File Reader Assistant]
 (https://towardsdatascience.com/llm-rag-creating-an-ai-powered-file-reader-assistant/?utm_campaign=tds%20variable&utm_medium=email&_hsmi=354843008&utm_source=newsletter)
+
+
 Future Improvements:
 
     1. Support for additional file types (TXT, DOCX)
@@ -42,7 +44,10 @@ Future Improvements:
     2. Improved retrieval accuracy
 
     3. Option to deploy online
-That's for all for today! 
+
+    
+That's for all for today!
+
 Remember:
 
     DATA IS ALL, ALL IS DATA!
