@@ -15,7 +15,7 @@ Installation and Setup
 
     Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/pdf_qa_app.git  
+git clone https://github.com/sid-2672/pdf_qa_app.git  
 cd pdf_qa_app  
 
 Install dependencies
